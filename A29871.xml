@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the mathematical works of the learned Mr. Thomas Baker, Rector of Bishop Nympton in Devonshire with a proposal about printing the same, and first one intituled The geometrical key, or, The gate of æquations unlockt.</title>
+            <author>Baker, Thomas, 1624 or 5-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29871</idno>
+            <idno type="STC">Wing B516A</idno>
+            <idno type="STC">ESTC R28338</idno>
+            <idno type="EEBO-CITATION">10543229</idno>
+            <idno type="OCLC">ocm 10543229</idno>
+            <idno type="VID">45216</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29871)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45216)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1395:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the mathematical works of the learned Mr. Thomas Baker, Rector of Bishop Nympton in Devonshire with a proposal about printing the same, and first one intituled The geometrical key, or, The gate of æquations unlockt.</title>
+                  <author>Baker, Thomas, 1624 or 5-1690.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mathematics --  Bibliography --  Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45216:1"/>
+            <pb n="1" facs="tcp:45216:1" rendition="simple:additions"/>
+            <head>A Catalogue of the Mathematical Works of the Learn<g ref="char:EOLhyphen"/>ed Mr. <hi>Thomas Baker,</hi> Rector of <hi>Biſhop Nympton</hi> in <hi>Devonſhire,</hi> with a Propoſal about printing the ſame; and firſt one intituled the <hi>GEOMETRICAL KEY,</hi> or the Gate of Aequations Unlockt.</head>
+            <p>A New Diſcovery of the Conſtructious of all Aequations howſo<g ref="char:EOLhyphen"/>ever affected, not exceeding the 4th degree; <hi>viz.</hi> Of <hi>Linears, Quadratics, Cubics,</hi> and <hi>Biquadratics,</hi> and the finding of all their Roots as well true as negative, without the uſe of <hi>Meſolabe,</hi> and <hi>Triſection of Angles;</hi> without Reduction, Depreſſion, or any o<g ref="char:EOLhyphen"/>ther praevious preparation of Aequations, by a Circle and any (and that but one only) <hi>Parabole:</hi> and this by one only general Rule. than which a more ſimple, more perfect, more gene<g ref="char:EOLhyphen"/>ral, more eaſy to be underſtood, or more fit for practiſe, can<g ref="char:EOLhyphen"/>not be deviſed or wiſhed for.</p>
+            <p>Fortified with Demonſtrations, Illuſtrated with Figures to each Aequation, which are Exemplyfied with numeral Aequations, (according to all the varieties of Caſes) adapted to each Fi<g ref="char:EOLhyphen"/>gure, for the uſe of young Mathematicians; a work hitherto defired.</p>
+            <p>
+               <seg rend="decorInit">T</seg>He Treatiſe conſiſts of about a Quire of Pa<g ref="char:EOLhyphen"/>per, the Diſcourſe whereof (but not the <hi>Algebraick Calculus</hi>) is both in <hi>Latin</hi> and <hi>Engliſh,</hi> the better to promote its forreign vend; and this doth not render it above three Sheets the larger than it would have been in one of theſe Languages. Beſides which, there is belonging to it diverſe Draughts of Schemes to be engraven, and one <hi>Folio</hi> Draught, whereto the literal <hi>Calculus</hi> for ſetling the <hi>Center,</hi> and finding the
+<pb n="2" facs="tcp:45216:2"/>
+               <hi>Raedius</hi> of the Circle that is to interſect the <hi>Parabole</hi> is expreſſed in readineſs for all Caſes.</p>
+            <p>How <hi>Des Cartes</hi> and all other famous <hi>Analyſts</hi> came to miſs this general Rule, and himſelf to fall upon it, he acquaints the Reader in the middle of his Diſcourſe; namely, that they conſidered the Axe of a <hi>Parabole</hi> and not its Diameter: and affirms, that if it had been his or their hap to have deſcribed a Circle from any Point in <hi>Poſition</hi> given, paſſing through the <hi>Vertex</hi> of any Diameter in the <hi>Parabole,</hi> and had taken into conſideration a certain propriety than which none could ſo have ſuited the deſign) belonging to the Diameter of any <hi>Parabole,</hi> they could not but with greateſt eaſe, have made a full diſcovery of the Univerſal Rule.</p>
+            <p>The excellency of which Invention appears, in that it diſcovers not only the Geometrical Conſtruction of all Aequations as above<g ref="char:EOLhyphen"/>ſaid, by one only ſtanding meaſure and Scheme, and that by one only general rule, with the exact number of Roots as well true as negative, but alſo by giving a fair proſpect towards their <hi>Arith<g ref="char:EOLhyphen"/>metical Calculus,</hi> or numerous Reſolution, by making a Diſcovery of their two firſt figures or numbers; namely, by applying the Compaſſes to the ſeveral Roots Geometrically found in the Scheme, and comparing them with that very Scale from which the ſaid Scheme (ſuited to the propoſed Aequation) was drawn, the reſi<g ref="char:EOLhyphen"/>due of which roots, (though not preciſely, yet ſufficient near<g ref="char:EOLhyphen"/>ly approximating to the true) may diverſe ways in Decimals be found out, which the Author (as he intimated in a Letter of <hi>A<g ref="char:EOLhyphen"/>pril</hi> 1682, to Mr. <hi>Collins</hi>) is willing to impart; but as to the In<g ref="char:EOLhyphen"/>vention of theſe reſiduals (to be entail'd to the two firſt figures or Numbers of this Author thus findable. The Learned Mr. <hi>Iſaac Newton</hi> Profeſſor of Mathematicks in <hi>Cambridge</hi> (in a Letter long ſince communicated to the aforeſaid Mr. <hi>Collins</hi>) hath as to this pur<g ref="char:EOLhyphen"/>poſe performed the ſame (as is conceived) by a different method, namely, that when a root of any Aequation is by any Method (which by the Authors aforeſaid it may be) ſo near found that it doth not differ above a tenth part of its ſelf from the true root ſought, the reſidue of the root inquired will be eaſily calcu<g ref="char:EOLhyphen"/>lated by aid of ſome terms or Fractional parts of an infinite Series or rank of continual Proportionals, derived from the difference between the Reſolvend of the known part of the Root, and that whoſe Root is ſought. By which means by raiſing Reſolvends out of any aſſumed Roots with an eaſy approach, without raiſing
+<pb n="3" facs="tcp:45216:2"/>the reſpective powers of the ſaid Roots, we are delivered from the moſt toilſom Drudgery of Mathematical Calculations, by finding the Roots of Aequations in numbers, by <hi>Vietas</hi> general method; a thing utterly unknown to the Ancients. However this is not ſaid to diſparage that Method which <hi>Victa</hi> ſo greatly eſteemed, that when he had obtained it, he gave <hi>Algebra</hi> this high <hi>Encomium,</hi> that it did <hi>Nullum non Problema ſolvere,</hi> in his numerical Method Mr. <hi>Oughtred</hi> and <hi>Harriot</hi> have taken commendable pains. But now laſt of all, to perform in Species as Mr. <hi>Iſaac Newton</hi> hath done, ſeems a new Invention never to be ſufficiently praiſed; for out of a literal Aequation of five Dimenſions, ſuppoſing all the terms ex<g ref="char:EOLhyphen"/>tant and affirmed, he hath given a Series for the Root in Species, and ſuch a one as ſhall ſerve for finding the Roots of all Equations of 3, 4 or 5 Dimenſions, by only altering the ſigns according as as the Aequation is affected, and expunging ſuch parts as relate to Deficient terms in an incompleat Aequation propoſed.</p>
+            <p>Now that this admirable Doctrine may come to light, and the Learned Author (who hath many other Treatiſes worthy publick view) may be incited to impart the ſame, encouragements for the promoting thereof (ſeeing Undertakers are not to be had with<g ref="char:EOLhyphen"/>out) muſt be propounded.</p>
+            <p>It is therefore humbly offered, that the Royal Society by their Treaſurer <hi>&amp;c.</hi> enter into Bond to ſuch Bookſeller as ſhall be the Undertaker, to take of 60 of theſe Books in Quires at 1½ <hi>d.</hi> each Sheet, and as much each Plate, as ſoon as printed.</p>
+            <p>
+               <hi>The Treatiſe it ſelf and the Propoſal, is approved and agreed to by the Council of the Royal Society.</hi>
+            </p>
+            <p>And in regard ſuch a Subſcription is not ſufficient to incite an Undertaker, that the reſpective Members endeavour by virtue of this Narrative, to obtain as many more Subſcribers as they can pro<g ref="char:EOLhyphen"/>cure amongſt others that are not of the Society, each of them to advance half a Crown in hand, in part of the former price: up<g ref="char:EOLhyphen"/>on which encouragements, <hi>Robert Clavel</hi> Bookſeller at the <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> in St. <hi>Pauls Church Yard,</hi> is ready to give reciprocal <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the performance according to this Propoſal, hoping the like en<g ref="char:EOLhyphen"/>couragement will be given towards printing the reſt of the Trea<g ref="char:EOLhyphen"/>tiſe of this moſt Learned Author, whereof take the enſuing Ca<g ref="char:EOLhyphen"/>talogue.</p>
+            <pb n="4" facs="tcp:45216:3"/>
+            <p n="1">1. The <hi>Hyperbolic Key,</hi> or the Geometrical Conſtruction of <hi>Cubic</hi> and <hi>Biquadratic</hi> Aequations; by a Circle and an equilateral <hi>Hyperbole;</hi> whereof the one moyety (exactly) <hi>viz.</hi> of eight <hi>Cu<g ref="char:EOLhyphen"/>bicks</hi> and four and twenty <hi>Biquadratics;</hi> (as is expreſſed in the for<g ref="char:EOLhyphen"/>mer treatiſe) namely,</p>
+            <p n="1">1. Of all thoſe Cubicks; wherein
+<list>
+                  <item>1. The quantity <hi>(q)</hi> is wanting; and <hi>p</hi> and <hi>r</hi> affected with divers Signes.</item>
+                  <item>2. The quantity <hi>(p)</hi> is wanting, and in the Aequation be had − <hi>q.</hi>
+                  </item>
+                  <item>3. None of the terms are wanting, and in the Aequation be had + <hi>q,</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="2">2. Of all thoſe <hi>Biquadratic</hi> Aequations in which are had + <hi>s,</hi> by the demiſſion of Perpendiculars, from the points of Interſecti<g ref="char:EOLhyphen"/>ons of the Circle and Hyperbole to the Aſſymptote; part of the other moyety, by the demiſſion of perpendiculars from the afore<g ref="char:EOLhyphen"/>ſaid interfections to the axe; <hi>&amp;c.</hi> with Schemes adapted to each Aequation, <hi>&amp;c.</hi> with a Synopſis of the whole, wherein the Literal Rule for fixing the Center, and finding the Radius of the Circle, that is to interſect the Aequilateral Hyperbole (the eaſieſt way of the Conſtruction of which is likewiſe therein diſcovered) is expreſſed in readineſs for all Caſes.</p>
+            <p>This method of Conſtruction (were it not, that for every Caſe a new Hyperbole muſt be deſcribed) would not be inferior to that by a Parabole, but rather exceed it; in that the Circle doth not arcuate the ſame way which the figure doth, but croſſes it the other way; by which means a clearer diſcovery (as to the one moyety) of the points of interſection of the Circle with the Hy<g ref="char:EOLhyphen"/>perbole is obtained, than what can poſſibly be had in any other Coni-ſection.</p>
+            <p n="3">3. The Geometrical Conſtruction of ſome Aequations which aſcend to the 5th and 6th power, with the finding of their Roots, by a Curve of the third degree; namely by the firſt kind (for there are two kinds) of a Paraboleid and a Circle, illuſtrated with Schemes to each Aequation, and numeral Aequations adapted to them; with a Synopſis to the ſame for placing the Center and finding the Radius, and a general little Table, for the deſcribing of both kinds of Paraboleids.</p>
+            <pb n="5" facs="tcp:45216:3"/>
+            <p n="4">4. The Conſtruction of all Cubick Aequations howſoever af<g ref="char:EOLhyphen"/>fected by a Circle only, Geometricaliy upon Suppoſition, that one <hi>Poſtulatum</hi> be granted to be Geometrical (which indeed is but a Supplement to Geometrical defects;) <hi>viz.</hi> That from any point aſſigned in the circumference of a Circle (that is normaly quadriſected) may be drawn a right Line, ſo that the parts intercepted both ways by the Circumference and Diameter, may be equal to the Radios of the Circle: this way (though not ſo purely Geometrical as the reſt) is not to be deſpiſed, ſith that theſe Lines may ſufficient preciſely be ſo drawn.</p>
+            <p n="5">5. The Geometrical Conſtruction of all Cubic Aequations ac<g ref="char:EOLhyphen"/>cording to the Rule found out by <hi>Franciſcus a Shooten,</hi> mentioned in his Commentaries on <hi>Des Cartes, Lib.</hi> 3. <hi>Pag.</hi> 328, 329, 330, illuſtrated with Figures and Numeral Aequations adapted to each Figure, <hi>&amp;c.</hi>
+            </p>
+            <p n="6">6. The Reſolution of all Cubick Aequations in numbers not only by a general Rule (by the aſſiſtance of any Figure reſolving them Geometrically <hi>&amp;c.</hi> but by a more particular method far ex<g ref="char:EOLhyphen"/>ceeding any extant in numbers or by help of tables; illuſtrated with Figures and Examples in numbers, ſuited to each figure and Aequation.</p>
+            <p n="7">7. Mixt or Compound <hi>Trigonometry;</hi> in many inſtances far exceeding the ſimple, as finding two <hi>Quaeſitas</hi> (as it were) by one operation, or by two at moſt; with a Synopſis of the admi<g ref="char:EOLhyphen"/>rable harmony between Plain and Sphaerical Triangles: for in<g ref="char:EOLhyphen"/>ſtance,</p>
+            <p>In plain Rectangular Triangles, the ▭ <hi>e</hi> under half the ſum of the <hi>Hypotenuſe</hi> and one ſide: and half their difference, is equal to the Square of ½ the other ſide, ſo in Sphaerical Rectangular Triangles. The ▭ under the Tangents of half the ſum and half the difference of the <hi>Hypotenuſe</hi> and one ſide: is equal to the ſquare of the Tangent of half the other ſide.</p>
+            <p>Again in Obliquangular Plain Triangles.</p>
+            <p> 
+               <gap reason="math">
+                  <desc>〈 math 〉</desc>
+               </gap>
+            </p>
+            <p>Thus likewiſe in Sphaerical Obliquangular Triangles.</p>
+            <p> 
+               <gap reason="math">
+                  <desc>〈 math 〉</desc>
+               </gap>
+            </p>
+            <p>Again in plain Triangles. ½ <hi>Baſis.</hi> ½ Z <hi>crurum,</hi> ½ X <hi>crurum,</hi> ½ X of the Segments of the Baſe.</p>
+            <pb n="6" facs="tcp:45216:4"/>
+            <p>In Sphaerical alſo.</p>
+            <p>
+               <hi>t,</hi> ½ <hi>Baſis. t,</hi> ½ Z <hi>Crurum, t,</hi> ½ X <hi>Crurum, t,</hi> ½ X <hi>Segmentorum baſis,</hi> with infinite other alike harmonious.</p>
+            <p>To which is added the Geometrical Conſtruction of all Sphaeri<g ref="char:EOLhyphen"/>cal Triangles, by a moſt plain and eaſy uniform way, which is indeed of ſingular uſe.</p>
+            <p>Alſo a diſcovery of the Method by which <hi>Vieta (Lib.</hi> 8 <hi>p.</hi> 431 <hi>&amp;c.</hi>) found out his Canonical Analogy of Sphaerical Triangles, which he hath left undemonſtrated, but in this Treatiſe is diſco<g ref="char:EOLhyphen"/>vered.</p>
+            <p n="8">8. <hi>Cardanus Promotus,</hi> or <hi>Cardans</hi> Rules, or <hi>Vieta's duplicata Hypoſtaſis, in infinitum,</hi> carried on with a Table for the compoſition <hi>in infinitum</hi> of ſuch Aequations. By which means ſuch Canons are generally compoſed for Aequations of two Nomes (and in many Caſes for more) equal to a Reſolvend given.</p>
+            <p n="9">9. A Continuation of <hi>Vietas Apollonius Gallus, Appendicula;</hi> 1. And his Problemes otherwiſe demonſtrated, wherein the Baſe and Angle oppoſite to the Baſe are always two of the <hi>Data's,</hi> and the other, either the perpendicular or the difference of the Seg<g ref="char:EOLhyphen"/>ments of the Baſe, or the difference of the ſquares of the ſides, or the ſum of the Squares of the ſides, or the Sum of the ſides, or the difference of the ſides or their ▭, whoſe Geometrical effection was altogether unknown to the antient Analyſts, <hi>Vieta ibid.</hi>
+            </p>
+            <p n="10">10. <hi>Vera &amp; Genuina Symmetrica Climactiſmus,</hi> by which means all <hi>Aſymmetries</hi> in <hi>Algebraics</hi> may be wiped off, and an Aequation found in any one of the unknown magnitudes propoſed, which ſhall never aſcend higher, than the double of the higheſt power firſt propoſed, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which alſo that moſt peplexing entangling in<g ref="char:EOLhyphen"/>extricable way of <hi>Vieta</hi> may be laid aſide as uſeleſs, and ineffica<g ref="char:EOLhyphen"/>cious, though hitherto it hath been the only remedy. <hi>Adver<g ref="char:EOLhyphen"/>ſus vitium Aſymmetriae,</hi> this treatiſe was many years ſince compoſed and laid aſide; but the Author lately meeting with the <hi>opera Poſthuma</hi> of <hi>Monſciur de Fermat,</hi> treating on the ſame Subject in his (<hi>Varia opera Mathematica pag.</hi> 58, 59, &amp;c.) and finding that though he rightly hits the mark; yet that he goes not in a ſtreight Line to it, hath reviſed his old Copy, and compared it with <hi>Fer<g ref="char:EOLhyphen"/>mats;</hi> and which of the two, hath gone the Simpler way, the Author leaves to the judgment of others, being loth in the leaſt to take up the Gantlets againſt ſuch a famous man whom all the world admires.</p>
+            <pb n="7" facs="tcp:45216:4"/>
+            <p n="11">11. <hi>Apollonius magnus Gregorianus,</hi> or a Treaiiſe of four Geo<g ref="char:EOLhyphen"/>metrical proportionals, wherein divers ways are found to ſolve that Grand problem, which hath ſo amuſed the world, <hi>(viz.)</hi>
+            </p>
+            <p>Having the ſum of all the Squares, and the ſum of all the Cubes, of four Geometrical Proportionals to find the Proportio<g ref="char:EOLhyphen"/>nals themſelves; with queſtions of the like nature, by low Ae<g ref="char:EOLhyphen"/>quations, without aid of Analytick Store.</p>
+            <p n="11">11. Of Triangular Sections by a different method than what <hi>Anderſon</hi> has performed it by, in <hi>Vieta,</hi> with a diſcovery of the falſhood (as to angular Sections) of Mr. <hi>Oughtreds</hi> 1ſt. Rule, in his <hi>Clavis Mathem. c.</hi> 16. <hi>p.</hi> 14.</p>
+            <p n="12">12. The finding out of Aequations which may infinitely aſcend, whoſe Roots are either in Arithmetical or Geometrical propor<g ref="char:EOLhyphen"/>tion which may be found out in numbers by extracting the Square and Cube Root, with ſurd Canons adapted to that purpoſe, and to many other Aequations.</p>
+            <p n="13">13. A Miſcellancy of the ſolution of many knotty Problemes, namely, ſuch as have been found difficult to be brought to any Equation, or elſe would mount very high <hi>in Ordine Scalae,</hi> with a new method of Depreſſing them, by aid of one or two Aequations, raiſed by altering the Data, and putting two unknown quantities, by which means the adjutant Aequations as having the ſame com<g ref="char:EOLhyphen"/>mon root, depreſs the Aequation that otherwiſe ſhould be reſolved.</p>
+         </div>
+         <div type="note_to_the_reader">
+            <head>ADVERTISEMENT.</head>
+            <p>THe Author herein ſuppoſeth the Reader to underſtand the uſe of common Symbols deſcribed in his firſt Book; <hi>ziz.</hi> cs, for <hi>Coſine,</hi> s, for <hi>Sine,</hi> Z for <hi>Sum,</hi> X for difference, ∠ for <hi>Angle,</hi> ∠∠ for <hi>Angles.</hi> And the Reader muſt be informed, that as the whole ſeems novel, ſo a brief Demonſtration of thoſe Propoſals in <hi>Sec.</hi> 7. to hold in Sphaericals is moſt deſirable; and if others be not want<g ref="char:EOLhyphen"/>ing in their encouragements, its not to be feared the Royal So<g ref="char:EOLhyphen"/>ciety will be ſlow in theirs.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
